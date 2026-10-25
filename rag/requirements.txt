@@ -1,0 +1,5 @@
+docling
+fastembed
+pinecone
+python-dotenv
+requests
